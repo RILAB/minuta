@@ -1,0 +1,1 @@
+/home/jri/src/mira_3.4.1.1_prod_linux-gnu_x86_64_static/bin/mira --project=minuta --job=denovo,454 --fasta -notraceinfo -highlyrepetitive -DI:trt=/scratch/

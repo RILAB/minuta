@@ -1,0 +1,96 @@
+Localtime: Thu Jun 13 15:09:54 2013
+
+Assembly information:
+=====================
+
+Num. reads assembled: 68305
+Num. singlets: 0
+
+
+Coverage assessment (calculated from contigs >= 5000):
+=========================================================
+  Avg. total coverage: 21.18
+  Avg. coverage per sequencing technology
+	Sanger:	0.00
+	454:	21.18
+	IonTor:	0.00
+	PacBio:	0.00
+	Solexa:	0.00
+	Solid:	0.00
+
+
+Large contigs (makes less sense for EST assemblies):
+====================================================
+With	Contig size		>= 500
+	AND (Total avg. Cov	>= 7
+	     OR Cov(san)	>= 0
+	     OR Cov(454)	>= 7
+	     OR Cov(ion)	>= 0
+	     OR Cov(pbs)	>= 0
+	     OR Cov(sxa)	>= 0
+	     OR Cov(sid)	>= 0
+	    )
+
+  Length assessment:
+  ------------------
+  Number of contigs:	217
+  Total consensus:	257784
+  Largest contig:	6018
+  N50 contig size:	1381
+  N90 contig size:	595
+  N95 contig size:	535
+
+  Coverage assessment:
+  --------------------
+  Max coverage (total):	73
+  Max coverage per sequencing technology
+	Sanger:	0
+	454:	670
+	IonTor:	0
+	PacBio:	0
+	Solexa:	0
+	Solid:	0
+
+  Quality assessment:
+  -------------------
+  Average consensus quality:			61
+  Consensus bases with IUPAC:			427	(you might want to check these)
+  Strong unresolved repeat positions (SRMc):	7	(you might want to check these)
+  Weak unresolved repeat positions (WRMc):	0	(excellent)
+  Sequencing Type Mismatch Unsolved (STMU):	0	(excellent)
+  Contigs having only reads wo qual:		0	(excellent)
+  Contigs with reads wo qual values:		0	(excellent)
+
+
+All contigs:
+============
+  Length assessment:
+  ------------------
+  Number of contigs:	6340
+  Total consensus:	4139068
+  Largest contig:	6018
+  N50 contig size:	794
+  N90 contig size:	368
+  N95 contig size:	307
+
+  Coverage assessment:
+  --------------------
+  Max coverage (total):	73
+  Max coverage per sequencing technology
+	Sanger:	0
+	454:	670
+	IonTor:	0
+	PacBio:	0
+	Solexa:	0
+	Solid:	0
+
+  Quality assessment:
+  -------------------
+  Average consensus quality:			45
+  Consensus bases with IUPAC:			16935	(you might want to check these)
+  Strong unresolved repeat positions (SRMc):	9	(you might want to check these)
+  Weak unresolved repeat positions (WRMc):	0	(excellent)
+  Sequencing Type Mismatch Unsolved (STMU):	0	(excellent)
+  Contigs having only reads wo qual:		0	(excellent)
+  Contigs with reads wo qual values:		0	(excellent)
+

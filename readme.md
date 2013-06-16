@@ -1,6 +1,6 @@
 #Oryza minuta repeat assembly
 
-Data files are on lab server:
+Original data files are on lab server:
 
 	/Volumes/DROBO_DATA/Oryza_minuta_454/
 
@@ -18,7 +18,7 @@ mira creates the following directories:
 - minuta_d_results  
 - minuta_d_tmp
 
-see mira documentation for description of files, but probably want minuta_out.unpadded.fasta
+see mira documentation for description of files, but probably want to use minuta_out.unpadded.fasta
 
 trf produces output file:
 
